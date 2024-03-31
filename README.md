@@ -19,10 +19,10 @@ The dataset used for this project contains information about various Pokemon spe
 
 The following Python libraries are required to run the project:
 
-- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+- [![NumPy][NumPy.org]][NumPy-url]
+- [![Pandas][Pandas.org]][Pandas-url]
+- [![scikit-learn][scikit-learn.org]][sk-learn-url]
+- [![Matplotlib][Matplotlib.org]][Matplotlib-url] 
 
 ## Installation
 
@@ -57,3 +57,13 @@ This project is licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain De
 ## Acknowledgments
 
 Special thanks to [Pokemon with stats](https://www.kaggle.com/datasets/abcsds/pokemon) dataset for providing the Pokemon dataset used in this project, and various learning sources for providing me with knowledge about Logistic Regression algorithm.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[NumPy.org]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
+[NumPy-url]: https://numpy.org/
+[Pandas.org]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas-url]: https://pandas.pydata.org/
+[scikit-learn.org]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
+[sk-learn-url]: https://scikit-learn.org/
+[Matplotlib.org]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
+[Matplotlib-url]: https://matplotlib.org/
