@@ -1,3 +1,66 @@
-# Legendary Pokemon Classifier
+# Legendary Pokemon Classifier using Logistic Regression
 
-This is a Machine Learning Project for 01418362 Introduction to Machine Learning
+This is a Machine Learning Project for 01418362 Introduction to Machine Learning. This project aims to build a machine learning model to classify legendary and non-legendary Pokemon using logistic regression. The classifier utilizes base stats feature to make predictions.
+
+## Overview
+
+The main objective of this project is to create a binary classifier that can accurately determine whether a given Pokemon is legendary or non-legendary based on its attributes. Logistic regression is chosen as the machine learning algorithm due to its simplicity and effectiveness for binary classification tasks.
+
+## Dataset
+
+The dataset used for this project contains information about various Pokemon species including their:
+
+- Base stats (HP, Attack, Defense, Special Attack, Special Defense, Speed)
+- Type(s)
+- Generation
+- Legendary status (target variable)
+
+## Dependencies
+
+The following Python libraries are required to run the project:
+
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+
+## Installation
+
+1. Clone the repository:
+```sh
+git clone https://github.com/0akkung/Legendary-Pokemon-Classifier.git
+```
+
+2. Install the required dependencies:
+```sh
+pip install -r requirements.txt
+```
+
+## Usage
+
+1. Run the Jupyter notebook `legendary_classifier.ipynb`.
+2. Follow the instructions provided in the notebook to load the dataset, preprocess the data, train the logistic regression model, and evaluate its performance.
+3. Use the trained model to classify new Pokemon by providing their attributes as input.
+
+## Results
+
+The performance of the logistic regression model is evaluated using metrics such as accuracy, precision, recall, and F1-score. Additionally, visualizations are provided to analyze the distribution of features and the decision boundary of the classifier.
+
+## Future Improvements
+
+- Experiment with other machine learning algorithms to compare performance.
+- Explore additional features or data sources to enhance model accuracy.
+- Implement cross-validation techniques for better model evaluation.
+- Deploy the classifier as a web application or API for easy access.
+
+## Contributors
+
+- [6410406827 Pawat Puttimit](https://github.com/0akkung)
+
+## License
+
+This project is licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## Acknowledgments
+
+Special thanks to [Pokemon with stats](https://www.kaggle.com/datasets/abcsds/pokemon) dataset for providing the Pokemon dataset used in this project.
