@@ -4,7 +4,7 @@ This is a Machine Learning Project for 01418362 Introduction to Machine Learning
 
 ## Overview
 
-The main objective of this project is to create and implement a binary classifier that can accurately determine whether a given Pokemon is legendary or non-legendary based on its attributes. Logistic regression is chosen as the machine learning algorithm due to its simplicity and effectiveness for binary classification tasks.
+The main objective of this project is to create and implement a binary classifier that can accurately determine whether a given Pokemon is legendary or non-legendary based on its attributes. Logistic Regression is chosen as the Machine Learning algorithm due to its simplicity and effectiveness for binary classification tasks.
 
 ## Dataset
 
