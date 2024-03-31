@@ -4,7 +4,7 @@ This is a Machine Learning Project for 01418362 Introduction to Machine Learning
 
 ## Overview
 
-The main objective of this project is to create a binary classifier that can accurately determine whether a given Pokemon is legendary or non-legendary based on its attributes. Logistic regression is chosen as the machine learning algorithm due to its simplicity and effectiveness for binary classification tasks.
+The main objective of this project is to create and implement a binary classifier that can accurately determine whether a given Pokemon is legendary or non-legendary based on its attributes. Logistic regression is chosen as the machine learning algorithm due to its simplicity and effectiveness for binary classification tasks.
 
 ## Dataset
 
@@ -19,10 +19,10 @@ The dataset used for this project contains information about various Pokemon spe
 
 The following Python libraries are required to run the project:
 
-- numpy
-- pandas
-- scikit-learn
-- matplotlib
+- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## Installation
 
@@ -44,14 +44,7 @@ pip install -r requirements.txt
 
 ## Results
 
-The performance of the logistic regression model is evaluated using metrics such as accuracy, precision, recall, and F1-score. Additionally, visualizations are provided to analyze the distribution of features and the decision boundary of the classifier.
-
-## Future Improvements
-
-- Experiment with other machine learning algorithms to compare performance.
-- Explore additional features or data sources to enhance model accuracy.
-- Implement cross-validation techniques for better model evaluation.
-- Deploy the classifier as a web application or API for easy access.
+The performance of the logistic regression model is evaluated using test accuracy and loss function. Additionally, visualizations are provided to analyze the distribution of features and the decision boundary of the classifier.
 
 ## Contributors
 
@@ -63,4 +56,4 @@ This project is licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain De
 
 ## Acknowledgments
 
-Special thanks to [Pokemon with stats](https://www.kaggle.com/datasets/abcsds/pokemon) dataset for providing the Pokemon dataset used in this project.
+Special thanks to [Pokemon with stats](https://www.kaggle.com/datasets/abcsds/pokemon) dataset for providing the Pokemon dataset used in this project, and various learning sources for providing me with knowledge about Logistic Regression algorithm.
