@@ -46,6 +46,10 @@ pip install -r requirements.txt
 
 The performance of the logistic regression model is evaluated using test accuracy and loss function. Additionally, visualizations are provided to analyze the distribution of features and the decision boundary of the classifier.
 
+## Presentation
+
+Slide coming soon.
+
 ## Contributors
 
 - [6410406827 Pawat Puttimit](https://github.com/0akkung)
