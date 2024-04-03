@@ -48,7 +48,7 @@ The performance of the logistic regression model is evaluated using test accurac
 
 ## Presentation
 
-Slide coming soon.
+[Here](LPC.pptx) is presentation slideshow for this project.
 
 ## Contributors
 
